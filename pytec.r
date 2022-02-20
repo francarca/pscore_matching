@@ -1,0 +1,1 @@
+pytec_raw <- read.csv2('micropanel09.csv', header = TRUE, sep = ";")
